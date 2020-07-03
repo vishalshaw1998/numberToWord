@@ -1,0 +1,27 @@
+body {
+    background-color: aqua;
+    background-image: linear-gradient(to right, rgb(47, 122, 184), aqua);
+}
+
+.text-large {
+    font-size: 30px;
+}
+.align-center {
+    justify-content: center;
+}
+.margin-bottom {
+    margin-bottom: 50px;
+}
+.content1 {
+    margin-top: 50px;
+    font-weight: bolder;
+    font-size: 40px;
+    font-family: "Yanone Kaffeesatz", sans-serif;
+}
+.all {
+    margin-top: 100px;
+}
+.head {
+    font-family: "Oswald", sans-serif;
+    font-size: 50px;
+}
